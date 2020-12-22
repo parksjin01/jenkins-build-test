@@ -4,7 +4,7 @@
 
     <groupId>com.damotire</groupId>
     <artifactId>jenkins-build-test</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
 
     <scm>
         <connection>scm:git:git@github.com:parksjin01/jenkins-build-test.git</connection>
@@ -12,7 +12,7 @@
             scm:git:git@github.com:parksjin01/jenkins-build-test.git
         </developerConnection>
         <url>git@github.com:parksjin01/jenkins-build-test.git</url>
-        <tag>HEAD</tag>
+        <tag>v1.0.1</tag>
     </scm>
 
     <properties>
